@@ -1,3 +1,3 @@
-def ApiControler < ActionController::API
+class ApiController < ActionController::API
 
 end
